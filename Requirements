@@ -1,0 +1,11 @@
+The following are required for the prject to run:
+
+# A working environemnt such as Jupyter Notebook.
+
+The libraries requried are:
+
+Numpy
+Pandas
+Matplotlib
+Tensorflow
+Sklearn
